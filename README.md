@@ -16,11 +16,11 @@ Os exercícios aqui presentes têm como objetivo praticar a lógica de programa�
 
 ## Tecnologias
 
-- Linguagem utilizada: **[/ C /]**
-- IDE recomendada: **[ /Visual Studio Code / Devc++/]**
+- Linguagem utilizada: **[C ]**
+- IDE recomendada: **[Visual Studio Code / Devc++]**
 
  Observações
 Este material faz parte da jornada de aprendizagem e prática da disciplina de Algoritmos, e está sujeito a melhorias contínuas.
 
-Feito com dedicação por [Seu Nome] – 1º Semestre de ADS
+Feito com dedicação por Fernanda – 1º Semestre de ADS
 Ano: 2025
